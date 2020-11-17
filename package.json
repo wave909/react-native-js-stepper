@@ -35,9 +35,10 @@
   },
   "main": "index.js",
   "dependencies": {
-    "react-native-vector-icons": "^4.5.0",
+    "@react-native-community/viewpager": "^4.2.0",
+    "prop-types": "^15.6.0",
     "react-native-platform-touchable": "^1.1.1",
-    "prop-types": "^15.6.0"
+    "react-native-vector-icons": "^4.5.0"
   },
   "devDependencies": {
     "@types/eslint-plugin-prettier": "^2.2.0",
